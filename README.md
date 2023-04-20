@@ -3,6 +3,8 @@ Repo to house example code for interacting with the N-central SOAP API via Pytho
 
 Considered a continual work in progress, be patient with any ugliness or incomplete aspects.
 
+**exampleOneShot.py is the first file you should review**
+
 ## Must Know Details
 
 #### Aspects of the N-central SOAP API
