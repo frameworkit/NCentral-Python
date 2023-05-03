@@ -1,3 +1,6 @@
+# Update 5/3/2023
+requests-toolbelt has removed support for Google AppEngine and therefore is compatible with Urllib3. You no longer need to force Urllib3's version for Zeep.
+
 # Update 4/27/2023
 In order to use Zeep, you must force your Urllib3 to v1.26.15. This is because v2.0.0 (released 4/26) breaks one of Zeep's dependencies, requests-toolbelt. An issue was opened on the requests-toolbelt repo to address this. For the curious: https://github.com/requests/toolbelt/issues/354
  
